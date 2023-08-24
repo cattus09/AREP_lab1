@@ -1,0 +1,54 @@
+@options
+@packages
+-classpath
+'/home/sergio/.m2/repository/org/json/json/20230618/json-20230618.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'arep 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'arep 1.0-SNAPSHOT API'
+arep
+arep.resources
+/home/sergio/.m2/repository/org/json/json/20230618/json-20230618.jar = 1692820696809
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/src/main/java = 1692813590752
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/type-search-index.zip = 1692845274831
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/index.html = 1692845274871
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/search.js = 1692845274891
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/allclasses.html = 1692845274861
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/constant-values.html = 1692845274771
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/member-search-index.js = 1692845274831
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/jquery-ui.overrides.css = 1692845274904
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/package-search-index.js = 1692845274827
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/help-doc.html = 1692845274884
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/allpackages-index.html = 1692845274841
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/deprecated-list.html = 1692845274851
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/index-all.html = 1692845274831
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/script.js = 1692845274891
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/allclasses-index.html = 1692845274841
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/package-search-index.zip = 1692845274831
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/member-search-index.zip = 1692845274831
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/stylesheet.css = 1692845274887
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/element-list = 1692845274737
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/overview-summary.html = 1692845274877
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/javadoc.sh = 1692845224055
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/overview-tree.html = 1692845274811
+/home/sergio/Documentos/universidad/2023-2/AREP/lab1/AREP_lab1/arep/target/site/apidocs/type-search-index.js = 1692845274831
